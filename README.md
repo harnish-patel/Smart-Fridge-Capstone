@@ -1,6 +1,9 @@
 # Smart Fridge Capstone
 This project includes the machine vision portion of my Smart Fridge Capstone Project for my final year of my Comp Eng Undergrad.
 
+Demo Video:
+https://www.youtube.com/watch?v=BojqOfBecdc
+
 ## Achievements
 I am proud to say this project won 1st place in the Software Engineering category for 2022's Queen's University Computer and Electrical Engineering Open House Design Projects!
 
